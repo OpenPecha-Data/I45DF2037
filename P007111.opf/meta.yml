@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16720
   title: རྒྱུན་ཤེས་གླིང་ག
-  volume: ''
+  volume:
+    7fd8255a333f40a8b3d40c08f87b268a:
+      image_group_id: I2PD18891
+      title: Volume 1 of rgyun shes gling ga
+      volume_number: 1
+      total_pages: 162
   author: ''
+ebook_metadata:
+  title: རྒྱུན་ཤེས་གླིང་ག
+  author: ''
+  sku: P007111
+  cover: cover.jpg
+  layers:
+  - pagination
