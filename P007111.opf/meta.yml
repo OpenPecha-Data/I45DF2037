@@ -1,15 +1,16 @@
-id: opecha:P007111
+id: P007111
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16720
   title: རྒྱུན་ཤེས་གླིང་ག
-  volume:
+  author: ''
+  volumes:
     7fd8255a333f40a8b3d40c08f87b268a:
       image_group_id: I2PD18891
       title: Volume 1 of rgyun shes gling ga
       volume_number: 1
       total_pages: 162
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྒྱུན་ཤེས་གླིང་ག
   author: ''
