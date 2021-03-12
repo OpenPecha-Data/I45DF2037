@@ -5,11 +5,12 @@ source_metadata:
   title: རྒྱུན་ཤེས་གླིང་ག
   author: ''
   volumes:
-    90ae5f62dda742e1a0cdaa4eff2fc5aa:
+    7fd8255a333f40a8b3d40c08f87b268a:
       image_group_id: I2PD18891
-      title: ''
+      title: Volume 1 of rgyun shes gling ga
       volume_number: 1
       total_pages: 162
+      base_file: v001.txt
 ebook_metadata:
   title: རྒྱུན་ཤེས་གླིང་ག
   author: ''
